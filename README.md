@@ -19,6 +19,14 @@
 
 ---
 
+## 🎬 Vídeo Demonstrativo
+
+> Apresentação do funcionamento do aplicativo e explicação de onde cada requisito foi implementado no código.
+
+[![Assistir no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Demonstração-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/pjUXmRc6IiA)
+
+---
+
 ## 📖 Sobre o projeto
 
 O **GiftLoop** é um aplicativo mobile e web que permite organizar dinâmicas de amigo oculto de forma prática, segura e sem custo. O organizador cria o evento, cadastra os participantes e realiza o sorteio com um toque. Cada participante acessa o resultado usando um PIN pessoal criado por ele mesmo — nem o organizador sabe quem tirou quem.
